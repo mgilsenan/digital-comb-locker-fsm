@@ -26,5 +26,7 @@ Operation
 •	For this case, a code sequence of 3, 1, 3 is assumed. 
 •	The operator can return to the original state and restart the unlocking attempt by enabling reset. 
 
-
+Design 
+State Diagram
+![](images/fsm.png)
 
