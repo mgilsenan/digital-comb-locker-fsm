@@ -1,4 +1,6 @@
-# digital-comb-locker-fsm
+# Digital Combination Locker
 The objective of this project is to design a 3 digit combination lock that could be used in a verity of applications. In this instance, it is assumed it would be used to lock a door preventing any entry to the room without the correct code sequence. The lock will be designed using a finite state machine and a synchronous design methodology.  
+
 A finite state machine is very helpful when designing a sequential circuit that has a next state logic. For the designing of the digital combination locker a FSM will allow the transitioning of states each time the operator passes in a value. After comparing each value entered by the operator to the correct code sequence and verifying the two values match, the transitioning of states will occur to verify the next input until the door is unlocked.  A FSM as shown with this application proves to be a very useful tool especially for any application with an event sequence or a pattern. 
+
 To begin with, a derivation of an FSM model or a state diagram will be presented to allow for an overview understanding of the design. The diagram shows the interactions and transitions between the internal states in amore simpler format. 
