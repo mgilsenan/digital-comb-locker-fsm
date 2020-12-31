@@ -15,7 +15,8 @@ To begin with, a derivation of an FSM model or a state diagram will be presented
 * The operator can return to a reset setting at any point in time.
 * There are two main principle components in the circuit and that is the data path and controller. 
 * Only after all 3 digit combination values that are entered by the operator can the door open.  
-Operation
+
+### Operation ###
 
 * Pressing reset begins the unlocking process.
 * The operator is allowed to enter any digit in the keypad to attempt to unlock the door. 
