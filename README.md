@@ -6,6 +6,7 @@ A finite state machine is very helpful when designing a sequential circuit that 
 To begin with, a derivation of an FSM model or a state diagram will be presented to allow for an overview understanding of the design. The diagram shows the interactions and transitions between the internal states in amore simpler format. 
 
 ## Specifications ##
+![](images/Screenshot%202020-12-30%20213313.png)
 ### Requirements ###
 
 * The 3 digit combination lock must allow for a reset button, and an enter button.
